@@ -5,7 +5,7 @@
     "rus": "Ёлочные игрушки",
     "image": "img/christmas.png"
   },
-  { "title": "hot-dog", "rus": "Хот-доги", "image": "img/hot-dog.png" },
+  { "title": "knife", "rus": "Сувенирные ножи", "image": "img/knife.png" },
   { "title": "combo", "rus": "Комбо", "image": "img/combo.png" },
   { "title": "shawarma", "rus": "Шаурма", "image": "img/shawarma.png" },
   { "title": "pizza", "rus": "Пицца", "image": "img/pizza.png" },
