@@ -1,6 +1,10 @@
 [
-  { "title": "trinket", "rus": "Брелок", "image": "img/keys-holder" },
-  { "title": "snack", "rus": "Закуски", "image": "img/snack.png" },
+  { "title": "trinket", "rus": "Брелки", "image": "img/keys-holder.png" },
+  {
+    "title": "christmas",
+    "rus": "Ёлочные игрушки",
+    "image": "img/christmas.png"
+  },
   { "title": "hot-dog", "rus": "Хот-доги", "image": "img/hot-dog.png" },
   { "title": "combo", "rus": "Комбо", "image": "img/combo.png" },
   { "title": "shawarma", "rus": "Шаурма", "image": "img/shawarma.png" },
