@@ -1,5 +1,5 @@
 [
-  { "title": "burger", "rus": "Бургеры", "image": "img/burger.png" },
+  { "title": "trinket", "rus": "Брелок", "image": "img/keys-holder" },
   { "title": "snack", "rus": "Закуски", "image": "img/snack.png" },
   { "title": "hot-dog", "rus": "Хот-доги", "image": "img/hot-dog.png" },
   { "title": "combo", "rus": "Комбо", "image": "img/combo.png" },
